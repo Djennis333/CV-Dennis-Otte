@@ -22,34 +22,22 @@ sidebar:
   github: Djennis333 # Alleen de gebruikersnaam
   # De rest van de sociale links laten we leeg of kun je op False zetten
 
-  languages:
-    title: Talen
-    info:
-    - idiom: Nederlands
-      level: Vloeiend (Moedertaal)
-
-    - idiom: Engels
-      level: Vloeiend
-
-  interests:
-    title: Vrijwilligerswerk
-    info:
-    - item: Keeperstraining geven (RKDVC, 2021-2023)
-      link:
-
 # De 'career-profile' sectie komt hieronder
 
   languages:
     title: Languages
     info:
-    - idiom: English
+    - idiom: Dutch
       level: Native
 
     - idiom: French
-      level: Professional
+      level: Beginner
 
-    - idiom: Spanish
-      level: Professional
+    - idiom: German
+      level: Beginner
+
+  - idiom: English 
+  level: Professional
 
   interests:
     title: Interests
